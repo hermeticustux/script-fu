@@ -1,10 +1,10 @@
 # script-fu
 
-This is a simmple repo containig scripts that are mostly useless.
+This is a simple repo containig scripts that are mostly useless.
 
 ## Requirements
 
-You'll need to have the following items installed before continuing.
+You'll need to have the following items installed before continuing:
 
   * [Python](http://python.org): Use the installer provided on the Python website.
 
