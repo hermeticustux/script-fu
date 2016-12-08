@@ -18,4 +18,4 @@ And you're set!
 
 ## Directory Listing
 
-  * `script-fu/tick-tock.py`: Coding exercise #1 - formulate the number of degrees in between clock hands
+  * `script-fu/tick-tock.py`: Coding exercise #1 - calculate the number of degrees in between clock hands
