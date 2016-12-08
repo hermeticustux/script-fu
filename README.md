@@ -18,4 +18,4 @@ And you're set!
 
 ## Directory Listing
 
-  * `script-fu/tick-tock.py`: Coding exercise #1
+  * `script-fu/tick-tock.py`: Coding exercise #1 - formulate the distance in between clock hands
