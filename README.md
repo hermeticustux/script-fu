@@ -1,6 +1,6 @@
 # script-fu
 
-This is a simple repo containig scripts that are mostly useless.
+This is a simple repo containig some assorted coding exercies.
 
 ## Requirements
 
@@ -18,4 +18,4 @@ And you're set!
 
 ## Directory Listing
 
-  * `script-fu/tick-tock.py`: Literally the most complex Python script you'll ever read
+  * `script-fu/tick-tock.py`: Coding exercise #1
