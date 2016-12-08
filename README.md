@@ -1,6 +1,6 @@
 # script-fu
 
-This is a simple repo containig some assorted coding exercises.
+This is a simple repo containig some assorted coding exercises (good for potential engineering candidates).
 
 ## Requirements
 
