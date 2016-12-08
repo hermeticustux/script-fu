@@ -1,7 +1,7 @@
 '''
 PROBLEM: Given a string, such as "3:32 PM", write a function that returns the number of degrees as an integer 
 between the hour and minute hands. Return the smaller degree if it exceeds 180 (for example, "3:00 PM" could return 
-either 270 or 90 degrees, but the answer we want is 90.
+either 270 or 90 degrees, but the answer you want is 90.
 '''
 
 import time
